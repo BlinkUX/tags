@@ -1,6 +1,6 @@
 {
   "name": "ether/tags",
-  "description": "A tag manager for Craft 3",
+  "description": "Blink port of the Tags plugin for Craft CMS 5",
   "type": "craft-plugin",
   "version": "2.0.0",
   "keywords": [
@@ -22,7 +22,7 @@
     }
   ],
   "require": {
-    "craftcms/cms": "^4.0"
+    "craftcms/cms": "^5.0"
   },
   "autoload": {
     "psr-4": {
